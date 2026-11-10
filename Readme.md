@@ -1,3 +1,20 @@
+# LawGlance — repository guide
+
+This repository contains material from [LawGlance](https://github.com/lawglance/lawglance), a retrieval-based legal-assistance project. It is third-party software, separate from the private Legali project.
+
+- [Application entry point](app.py)
+- [Existing documentation](LawGlance_Documentation.md)
+- [Apache 2.0 licence](LICENSE.md)
+- [Upstream project](https://github.com/lawglance/lawglance)
+
+Upstream authors retain their credits. This portfolio makes no independent legal-accuracy or performance claim. Bundled data and notebook outputs need their own provenance and permissions review; the software licence should not be assumed to clear every dataset.
+
+## Inherited documentation
+
+The existing README is preserved below. This file was modified on 10 November 2026 to add portfolio navigation and attribution, with AI assistance.
+
+---
+
 # ⚖️ **LawGlance: AI-Powered Legal Assistant**
 
 [![GitHub stars](https://img.shields.io/github/stars/lawglance/lawglance?style=social)](https://github.com/lawglance/lawglance/stargazers)
